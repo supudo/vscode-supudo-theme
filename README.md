@@ -1,1 +1,1 @@
-# vscode-supudo-theme
+Personal VSCode light theme, modified to resemble https://github.com/gilmanov-ildar/qtcreator-themes (kinda....)
