@@ -1,0 +1,1 @@
+# vscode-supudo-theme
