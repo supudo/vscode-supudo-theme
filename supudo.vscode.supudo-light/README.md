@@ -1,6 +1,6 @@
 # VSCode supudo.net Light Theme
 
-Visual Studio Code light theme, modified to resemble the QT Creator themes at https://github.com/gilmanov-ildar/qtcreator-themes.
+Visual Studio Code light theme, modified to resemble the QT Creator themes at [gilmanov-ildar](https://github.com/gilmanov-ildar/qtcreator-themes).
 
 
 ## Installing
